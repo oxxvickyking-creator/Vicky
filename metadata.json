@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Studio",
+  "description": "AI video generator tool supporting up to 30-minute videos with free unlimited voiceover, visual scenes, and video creation without credits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
